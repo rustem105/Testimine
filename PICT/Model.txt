@@ -1,0 +1,5 @@
+Tüüp:            CD, DVD
+Kiirus:          2, 4, 8, 16, 24, 36, 52
+Faili süsteem:   ISO, UDF, UDF/ISO
+Multisessioon:   Net, Nachatj, Prodolzitj
+Andmete hulk:    100 Mb, 700 Mb/4,7 Gb

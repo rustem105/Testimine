@@ -5,9 +5,9 @@ import klassid.ruut;
 import static org.junit.Assert.assertEquals;
 
 public class RuutjuuredTest {
-public class Roots_test {
+
     
-    public Roots_test() {
+    public RuutjuuredTest() {
     }
     
     @Test
@@ -17,5 +17,4 @@ public class Roots_test {
         assertEquals(-1, rootsArray[0], 0.001);
         assertEquals(-2, rootsArray[1], 0.001);
     }
-}
 }
